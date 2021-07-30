@@ -1,3 +1,15 @@
-# angular-ivy-zqrd6h
+# LEADS MANAGEMENT REPLICA [v.bravo]
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-zqrd6h)
+
+
+
+
+
+
+```html  
+HTML goes here.
+```  
+
+```ts  
+'TYPESCRIPT goes here'
+```  
