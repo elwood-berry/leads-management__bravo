@@ -4,9 +4,12 @@ import { FormsModule } from '@angular/forms';
 
 import { AppComponent } from './app.component';
 
+// COMPONENTS
+import { ListViewComponent } from './leads/list-view/list-view.component';
+
 @NgModule({
   imports: [BrowserModule, FormsModule],
-  declarations: [AppComponent],
+  declarations: [AppComponent, ListViewComponent],
   bootstrap: [AppComponent]
 })
 export class AppModule {}

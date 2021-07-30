@@ -41,3 +41,15 @@ This is an outline of what we currently have in place.
   <mat-spinner></mat-spinner>
 </div>  
 ```  
+
+
+
+
+---  
+```html  
+HTML goes here.
+```  
+
+```ts  
+'TYPESCRIPT goes here'
+```  
